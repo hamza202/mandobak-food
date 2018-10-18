@@ -1,0 +1,149 @@
+.m-widget24 .m-widget24__item .progress {
+    margin-top: 1.5rem;
+}
+
+.m-widget24 .m-widget24__item .progress{
+    margin-bottom: 1.5rem;
+}
+.m-widget24 .m-widget24__item .m-widget24__title {
+    margin-top: 2.21rem;
+    position: relative;
+    top: 14px;
+}
+.text-cyan {
+    color: #01c0c8!important;
+}
+.text-pink {
+    color: #fb9678!important;
+}
+.text-purple {
+    color: #ab8ce4!important;
+}
+.cart1-list{
+    margin-top: 26px;
+}
+.m-portlet__head-title.position-relative{
+    top: -10px;
+}
+.m-portlet__head-title.position-relative span{
+    position: absolute;left: 0;
+    top: 17px;
+    font-weight: 300;
+    margin-bottom: 15px;
+    color: #6c757d;
+    min-width: 190%;
+}
+.my-table{
+    min-width: 100%;
+}
+.my-table th:not(:first-child){
+    width: 25% ;
+}
+.text-metal{
+    color: #d2d4d6;
+}
+.m-widget3 .m-widget3__item{
+    padding-bottom: 7px;
+}
+.m-login.m-login--1 .m-login__wrapper .m-login__logo{
+    margin: 0 auto 3rem auto;
+    max-width: 200px;
+}
+.btn-theme{
+    color: #fff;
+    background-color: #743959;
+    border-color: #743959;
+}
+.btn-theme:hover{
+    color: #fff;
+    background-color: #9b437c;
+    border-color: #9b437c;
+}
+.btn-outline-theme {
+    color: #743959;
+    background-color: transparent;
+    background-image: none;
+    border-color: #743959;
+}
+.btn-outline-theme:hover{
+    border-color: #743959;
+    background: #743959;
+    color: #fff;
+}
+/*Upload img Start*/
+.edit-profile-photo {
+    text-align: center;
+    position: relative;
+    display: block;
+}
+.edit-profile-photo img {
+    border-radius: 4px;
+    vertical-align: middle;
+    max-width: 100%;
+    width: auto;
+    max-height: 185px;
+}
+.change-photo-btn {
+    font-weight: 600;
+    padding: 5px 6px;
+    color: #333;
+    background-color: #fff;
+    border-radius: 50px;
+    display: inline-block;
+    font-size: 13px;
+    width: auto;
+    transition: .3s;
+    cursor: pointer;
+    line-height: 20px;
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+}
+.change-photo-btn {
+    left: 0;
+    right: 0;
+    max-width: 140px;
+    margin: 0 auto;
+    display: block;
+}
+.photoUpload {
+    position: relative;
+    overflow: hidden;
+    padding: 3px 12px;
+    cursor: pointer;
+}
+.change-photo-btn i {
+    margin-right: 2px;
+}
+.photoUpload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    -moz-transition: all .1s ease-in-out;
+    -o-transition: all .1s ease-in-out;
+    -ms-transition: all .1s ease-in-out;
+    transition: all .1s ease-in-out;
+}
+.photoUpload span{
+    font-size: 11px;
+}
+/*Upload img End*/
+.m-timeline-3 .m-timeline-3__item:before{
+    left: 0;
+    height: 80%;
+    top: 0.36rem;
+}
+.m-timeline-3 .m-timeline-3__item .m-timeline-3__item-desc{
+    padding-left: 1rem;
+}
+.single-order .m-timeline-3 .m-timeline-3__item .m-timeline-3__item-desc .m-timeline-3__item-user-name .m-timeline-3__item-link{
+    font-size: 1rem;
+}
+.single-order .m-link.m-link--metal{
+    color: #a0a0a0;
+}

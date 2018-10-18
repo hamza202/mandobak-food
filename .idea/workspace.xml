@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cef4d54d-a206-4403-8f68-4c5c005805d4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-806483748">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="php" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PHP" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="197425724">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="js" value="1" />
+          <entry key="php" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PHP" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="98" />
+          <entry key="js" value="22" />
+          <entry key="php" value="591" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="98" />
+          <entry key="HTML" value="1" />
+          <entry key="JavaScript" value="22" />
+          <entry key="PHP" value="590" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1786894555">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="1" />
+          <entry key="php" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="1" />
+          <entry key="PHP" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="17" />
+          <entry key="php" value="177" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="17" />
+          <entry key="PHP" value="177" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/asideMenu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account-details.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="181" column="51" lean-forward="true" selection-start-line="181" selection-start-column="51" selection-end-line="181" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/create-order.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="126" column="80" lean-forward="true" selection-start-line="126" selection-start-column="80" selection-end-line="126" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/demo/custom/crud/forms/validation/form-controls.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applications.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5471">
+              <caret line="416" column="69" selection-start-line="416" selection-start-column="69" selection-end-line="416" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/single-applications.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="167" column="50" selection-start-line="167" selection-start-column="50" selection-end-line="167" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="88" column="77" selection-start-line="88" selection-start-column="77" selection-end-line="88" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/custome.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2482">
+              <caret line="146" column="14" selection-start-line="146" selection-start-column="14" selection-end-line="146" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/app/js/dashboard.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="935">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>m_login_forget_password</find>
+      <find>m-login__forget-password</find>
+      <find>2012-</find>
+      <find>morris-area-chart</find>
+      <find>morris-area-chart2</find>
+      <find>ipad</find>
+      <find>Invoices Overview</find>
+      <find>up2</find>
+      <find>up1</find>
+      <find>.m-timeline-3 .m-timeline-3__item:before</find>
+      <find>Add A New Delegate Account</find>
+      <find>All Orders</find>
+      <find>single-order.php</find>
+      <find>Request type</find>
+      <find>Delegate Name:</find>
+      <find>Phone Number</find>
+      <find>border-bottom</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>2018-</replace>
+      <replace>Underway</replace>
+      <replace>single-applications.php</replace>
+      <replace>Recipient's phone</replace>
+      <replace>Order type</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/assets/app/js/dashboard.js" />
+        <option value="$PROJECT_DIR$/add-account.php" />
+        <option value="$PROJECT_DIR$/view-orders.php" />
+        <option value="$PROJECT_DIR$/assets/css/custome.css" />
+        <option value="$PROJECT_DIR$/single-order.php" />
+        <option value="$PROJECT_DIR$/view-accounts.php" />
+        <option value="$PROJECT_DIR$/account-details.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/single-applications.php" />
+        <option value="$PROJECT_DIR$/asideMenu.php" />
+        <option value="$PROJECT_DIR$/applications.php" />
+        <option value="$PROJECT_DIR$/assets/demo/custom/crud/forms/validation/form-controls.js" />
+        <option value="$PROJECT_DIR$/create-order.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/vendors/handlebars/node_modules" />
+    <handled-path value="$PROJECT_DIR$/vendors/markdown/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/vendors/animate.css/package.json" />
+      <path value="$PROJECT_DIR$/vendors/autosize/package.json" />
+      <path value="$PROJECT_DIR$/vendors/block-ui/package.json" />
+      <path value="$PROJECT_DIR$/vendors/bootstrap-datepicker/package.json" />
+      <path value="$PROJECT_DIR$/vendors/bootstrap-daterangepicker/package.json" />
+      <path value="$PROJECT_DIR$/vendors/bootstrap-datetime-picker/package.json" />
+      <path value="$PROJECT_DIR$/vendors/bootstrap-markdown/package.json" />
+      <path value="$PROJECT_DIR$/vendors/bootstrap-maxlength/package.json" />
+      <path value="$PROJECT_DIR$/vendors/bootstrap-notify/package.json" />
+      <path value="$PROJECT_DIR$/vendors/bootstrap-select/package.json" />
+      <path value="$PROJECT_DIR$/vendors/bootstrap-switch/package.json" />
+      <path value="$PROJECT_DIR$/vendors/bootstrap-timepicker/package.json" />
+      <path value="$PROJECT_DIR$/vendors/bootstrap-touchspin/package.json" />
+      <path value="$PROJECT_DIR$/vendors/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/vendors/chart.js/package.json" />
+      <path value="$PROJECT_DIR$/vendors/chartist/package.json" />
+      <path value="$PROJECT_DIR$/vendors/clipboard/package.json" />
+      <path value="$PROJECT_DIR$/vendors/counterup/package.json" />
+      <path value="$PROJECT_DIR$/vendors/dropzone/package.json" />
+      <path value="$PROJECT_DIR$/vendors/es6-promise-polyfill/package.json" />
+      <path value="$PROJECT_DIR$/vendors/handlebars/package.json" />
+      <path value="$PROJECT_DIR$/vendors/inputmask/package.json" />
+      <path value="$PROJECT_DIR$/vendors/ion-rangeslider/package.json" />
+      <path value="$PROJECT_DIR$/vendors/jquery-form/package.json" />
+      <path value="$PROJECT_DIR$/vendors/jquery-validation/package.json" />
+      <path value="$PROJECT_DIR$/vendors/jquery.repeater/package.json" />
+      <path value="$PROJECT_DIR$/vendors/jquery/package.json" />
+      <path value="$PROJECT_DIR$/vendors/js-cookie/package.json" />
+      <path value="$PROJECT_DIR$/vendors/jstree/package.json" />
+      <path value="$PROJECT_DIR$/vendors/markdown/package.json" />
+      <path value="$PROJECT_DIR$/vendors/moment/package.json" />
+      <path value="$PROJECT_DIR$/vendors/morris.js/package.json" />
+      <path value="$PROJECT_DIR$/vendors/nouislider/package.json" />
+      <path value="$PROJECT_DIR$/vendors/owl.carousel/package.json" />
+      <path value="$PROJECT_DIR$/vendors/perfect-scrollbar/package.json" />
+      <path value="$PROJECT_DIR$/vendors/popper.js/package.json" />
+      <path value="$PROJECT_DIR$/vendors/raphael/package.json" />
+      <path value="$PROJECT_DIR$/vendors/select2/package.json" />
+      <path value="$PROJECT_DIR$/vendors/socicon/package.json" />
+      <path value="$PROJECT_DIR$/vendors/summernote/package.json" />
+      <path value="$PROJECT_DIR$/vendors/sweetalert2/package.json" />
+      <path value="$PROJECT_DIR$/vendors/tether/package.json" />
+      <path value="$PROJECT_DIR$/vendors/toastr/package.json" />
+      <path value="$PROJECT_DIR$/vendors/tooltip.js/package.json" />
+      <path value="$PROJECT_DIR$/vendors/typeahead.js/package.json" />
+      <path value="$PROJECT_DIR$/vendors/waypoints/package.json" />
+      <path value="$PROJECT_DIR$/vendors/wnumb/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-384" />
+    <option name="y" value="276" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mandobak-food" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mandobak-food" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cef4d54d-a206-4403-8f68-4c5c005805d4" name="Default Changelist" comment="" />
+      <created>1537614936427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537614936427</updated>
+      <workItem from="1537614939202" duration="427000" />
+      <workItem from="1537615780241" duration="3123000" />
+      <workItem from="1537694408443" duration="10468000" />
+      <workItem from="1538382847672" duration="5332000" />
+      <workItem from="1538998291690" duration="944000" />
+      <workItem from="1539158476600" duration="599000" />
+      <workItem from="1539250753776" duration="4966000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25859000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18986385" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="47" column="50" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view-orders.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5967">
+          <caret line="351" column="53" selection-start-line="351" selection-start-column="53" selection-end-line="351" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="51" selection-start-line="58" selection-start-column="51" selection-end-line="58" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view-accounts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="369" column="13" selection-start-line="321" selection-start-column="15" selection-end-line="369" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/custome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2482">
+          <caret line="146" column="14" selection-start-line="146" selection-start-column="14" selection-end-line="146" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/app/js/dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="88" column="77" selection-start-line="88" selection-start-column="77" selection-end-line="88" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add-account.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="206" column="86" selection-start-line="206" selection-start-column="86" selection-end-line="206" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asideMenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-applications.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="167" column="50" selection-start-line="167" selection-start-column="50" selection-end-line="167" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account-details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="181" column="51" lean-forward="true" selection-start-line="181" selection-start-column="51" selection-end-line="181" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5471">
+          <caret line="416" column="69" selection-start-line="416" selection-start-column="69" selection-end-line="416" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/demo/custom/crud/forms/validation/form-controls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create-order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="126" column="80" lean-forward="true" selection-start-line="126" selection-start-column="80" selection-end-line="126" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
