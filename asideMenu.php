@@ -18,6 +18,12 @@
                     <span class="m-menu__link-text">Applications</span>
                 </a>
             </li>
+            <li class="m-menu__item  m-menu__item--submenu" aria-haspopup="true">
+                <a href="location.php" class="m-menu__link ">
+                    <i class="m-menu__link-icon flaticon-list"></i>
+                    <span class="m-menu__link-text">Update Location</span>
+                </a>
+            </li>
         </ul>
     </div>
 
